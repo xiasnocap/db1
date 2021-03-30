@@ -7,9 +7,7 @@
 You will need a version of python installed to use this.
 Make sure to click "add to path" when installing python.
 
-Just google how to get your token if you dont already know how
-
-I wont respond to any issues created, put those on the dank farmer repo.
+Just google how to get your token if you dont already know
 
 # Installation
 1. Extract the zip
