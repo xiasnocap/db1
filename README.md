@@ -25,17 +25,17 @@ Example: C:\Users\person\Downloads\Dank-Farmer-main\Dank-Destroyer-main
 The included exe is the python file compiled, it might work idk
 # Features
 
-Auto beg,
-Auto daily,
-Auto weekly,
-Auto monthly,
-Auto laptop,
-Auto lottery,
-Auto slots,
-Auto bet,
-Auto gamble,
-Auto snake,
-Auto fish,
-Auto hunt,
-Auto wash,
-Auto feed,
+1. Auto beg
+2. Auto daily
+3. Auto weekly
+4. Auto monthly
+5. Auto laptop
+6. Auto lottery
+7. Auto slots
+8. Auto bet
+9. Auto gamble
+10. uto snake
+11. Auto fish
+12. Auto hunt
+13. Auto wash
+14. Auto feed
