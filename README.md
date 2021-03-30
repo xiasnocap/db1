@@ -11,8 +11,7 @@ Just google how to get your token if you dont already know how
 
 I wont respond to any issues created, put those on the dank farmer repo.
 
-# Installation ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-
+# Installation
 1. Extract the zip
 
 2. Open command prompt
