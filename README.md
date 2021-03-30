@@ -18,10 +18,11 @@ Example: C:\Users\person\Downloads\Dank-Farmer-main\Dank-Destroyer-main
 
 4. Say pip install -r requirements in command prompt
 
-5.After that, say py dank.py
+5. After that, say py dank.py
 
 6. Follow the given prompts
 
+The included exe is the python file compiled, it might work idk
 # Features
 
 Auto beg command
