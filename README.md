@@ -1,4 +1,4 @@
-## This is an edited version of a selfbot called Dank Farmer It can be found here: https://github.com/TEERMIIINAAL/Dank-Farmer 
+## This is an edited version of a selfbot called Dank Farmer, It can be found here: https://github.com/TEERMIIINAAL/Dank-Farmer 
 
 You will need a version of python installed to use this.
 Make sure to click "add to path" when installing python.
