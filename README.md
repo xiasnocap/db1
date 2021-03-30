@@ -3,7 +3,7 @@
 ## This is an edited version of a selfbot called Dank Farmer, It can be found here: https://github.com/TEERMIIINAAL/Dank-Farmer 
 
 
-## Info [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+## Info [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yaukari/Dank-Destroyer/issues)
 You will need a version of python installed to use this.
 Make sure to click "add to path" when installing python.
 
