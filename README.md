@@ -34,7 +34,7 @@ The included exe is the python file compiled, it might work idk
 7. Auto slots
 8. Auto bet
 9. Auto gamble
-10. uto snake
+10. Auto snake
 11. Auto fish
 12. Auto hunt
 13. Auto wash
