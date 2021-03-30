@@ -1,5 +1,9 @@
+
+
 ## This is an edited version of a selfbot called Dank Farmer, It can be found here: https://github.com/TEERMIIINAAL/Dank-Farmer 
 
+
+## Info [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 You will need a version of python installed to use this.
 Make sure to click "add to path" when installing python.
 
@@ -7,7 +11,7 @@ Just google how to get your token if you dont already know how
 
 I wont respond to any issues created, put those on the dank farmer repo.
 
-# Installation
+# Installation ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 1. Extract the zip
 
