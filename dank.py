@@ -28,7 +28,7 @@ async def on_ready():
                                                                             
   {COL.RESET}
    {COL.RED}{STY.BRIGHT}[?] {COL.RESET}Dank Destroyer Is Now Online - Run {dank.command_prefix}Help To Get Started!
-{COL.MAGENTA} made by github.com/TEERMIIINAAL - edited by github.com/yaukari
+{COL.MAGENTA} made by github.com/yaukari
 """)
 
 @dank.command(invoke_without_command=True)
