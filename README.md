@@ -1,6 +1,6 @@
 
 
-## This is an edited version of a selfbot called Dank Farmer, It can be found here: https://github.com/TEERMIIINAAL/Dank-Farmer 
+## credit me if you edit
 
 
 ## Info [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yaukari/Dank-Destroyer/issues)
